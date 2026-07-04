@@ -8,5 +8,4 @@ Yapay Zeka ve Teknoloji Akademisi Bootcamp 2026
 - Rabianur Becit (Developer)
 - Amr Acar (Developer)
 
-## İlk Proje Fikri
-COP31 temasını dikkate alarak sürdürülebilirlik odaklı, uygulanabilir bir proje geliştirmeyi hedeflemekteyiz.
+
