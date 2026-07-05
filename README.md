@@ -53,6 +53,11 @@ Sprint1 süreci içerisinde aşağıdaki tarihlerde toplantılar gerçekleştiri
 - 3 Temmuz (Yoğun Çalışma - I): Streamlit giriş sayfası kodlandı; veri giriş alanları (input fields) ve kullanıcı akışı tamamlandı.
 - 4 Temmuz (Yoğun Çalışma - II): AI entegrasyonu (Prompt Engineering) yapıldı.
 - 5 Temmuz (Yoğun Çalışma - III): Sprint1 için README dokümantasyonu tamamlandı, Kanban board üzerindeki tüm Sprint 1 görevleri ve backlog kontrol edilerek iş maddelerinin durumları güncellendi. Sprint1 Review gerçekleştirildi.
+- 
+  <img width="1595" height="846" alt="Toplantı2" src="https://github.com/user-attachments/assets/e12e3901-aa18-4330-a333-64b15fd80250" />
+<img width="1592" height="842" alt="Toplantı3" src="https://github.com/user-attachments/assets/f8841535-5bf6-4cd9-8bfd-1b8e16720ce9" />
+<img width="1600" height="805" alt="Toplantı1" src="https://github.com/user-attachments/assets/41e22548-718a-41ab-9d81-2c9f8a5a4b5f" />
+
 
 # Sprint Board Durum Bilgisi
 
